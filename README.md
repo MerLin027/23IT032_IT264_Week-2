@@ -20,14 +20,14 @@ The Task Reminder System is a simple and interactive command-line application wr
 2. Ensure you have Node.js installed.
 3. Run the script using the command:
    ```bash
-   node <script_name>.js
+   node w2.js
    ```
 
 ## Usage
 
 1. Launch the application by running the script in your terminal:
    ```bash
-   node <script_name>.js
+   node w2.js
    ```
 2. Use the menu to interact with the system:
    - Option 1: Add a new task by entering its title, due time in minutes, and priority.
